@@ -1,1 +1,8 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<StepsToPlay>
+<OpenSite>BookStores</OpenSite>
+<ClickButton>Pay</ClickButton> 
+<InterTheCard>Visa card</InterTheCard>
+<Result>Payment failed, please check the method.</Result>
+<ExpectResult>paid successful.</ExpectResult>
+</StepsToPlay>
